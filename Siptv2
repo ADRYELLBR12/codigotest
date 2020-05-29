@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="A&E",A&E HD
 http://cdn.poptv.vip:80/daniel/daniel/7547
-#EXTINF:-1,iptvtools_4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="A&E",A&E FHD
 http://cdn.poptv.vip:80/daniel/daniel/9326
-#EXTINF:-1,iptvtools_5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F75tqwv/aande.png "group-title="A&E",A&E HD Alternativo
 http://a.srvbr.me:8880/138883/138883/898
-#EXTINF:-1,iptvtools_6
-http://a.srvbr.me:8880/138883/138883/898
-#EXTINF:-1,iptvtools_7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="A&E",A&E FHD Alternativo
 http://a.srvbr.me:8880/138883/138883/4203
-#EXTINF:-1,iptvtools_8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="A&E",A&E PLUS
 http://a.srvbr.me:8880/138883/138883/4167
 ====================================================================AMC================================================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="AMC",AMC SD
@@ -29,193 +27,193 @@ http://a.srvbr.me:8880/138883/138883/5436
 http://a.srvbr.me:8880/138883/138883/4166
 
 ======================================================================Band
-#EXTINF:-1,iptvtools_8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="BAND", Band RBA PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1,iptvtools_9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="BAND",Band
 http://a.srvbr.me:8880/138883/138883/887
-#EXTINF:-1,iptvtools_10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="BAND" ,Band HD
 http://a.srvbr.me:8880/138883/138883/891
-#EXTINF:-1,iptvtools_11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="BAND",Band Full HD
 http://a.srvbr.me:8880/138883/138883/5475
-#EXTINF:-1,iptvtools_12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="BAND",Band HD [PLUS]
 http://a.srvbr.me:8880/138883/138883/4164
-#EXTINF:-1,iptvtools_22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="BAND", Band RBA PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 ======================================================================Cartoon Network
-#EXTINF:-1,iptvtools_9
+#EXTINF:-1  tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Cartoon Network",Cartoon Network
 http://a.srvbr.me:8880/138883/138883/878
-#EXTINF:-1,iptvtools_10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Cartoon Network",Cartoon Network HD
 http://a.srvbr.me:8880/138883/138883/877
-#EXTINF:-1,iptvtools_11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Cartoon Network",Cartoon Network [PLUS]
 http://a.srvbr.me:8880/138883/138883/4159
 
-======================================================================Outros
-#EXTINF:-1,iptvtools_2
+==========================================================================cultura===================================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CvvkxnR/tvcultura.png" group-title="Cultura", TV Cultura
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist.m3u8
-#EXTINF:-1,iptvtools_3
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvbaiana.png" group-title="Cultura", TV Baiana - Cultura
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
-#EXTINF:-1,iptvtools_4
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Cultura", Cultura Pará
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1,iptvtools_5
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="Cultura",Catve - Cultura (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
-#EXTINF:-1,iptvtools_6
-https://i.ibb.co/X4JhqpB/cnni.png,CNN
-#EXTINF:-1,iptvtools_8
-https://i.ibb.co/X4JhqpB/cnni.png,CNN
-#EXTINF:-1,iptvtools_10
-https://i.ibb.co/X4JhqpB/cnni.png,CNN
-#EXTINF:-1,iptvtools_12
-https://i.ibb.co/X4JhqpB/cnni.png,CNN
-#EXTINF:-1,iptvtools_68
+
+=======================================================================globo=============================================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo Brasília
 http://a.srvbr.me:8880/138883/138883/831
-#EXTINF:-1,iptvtools_72
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo TV Centro America
 http://a.srvbr.me:8880/138883/138883/5127
-#EXTINF:-1,iptvtools_73
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo EPTV Campinas
 http://a.srvbr.me:8880/138883/138883/5130
-#EXTINF:-1,iptvtools_74
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo EPTV Campinas HD
 http://a.srvbr.me:8880/138883/138883/5314
-#EXTINF:-1,iptvtools_75
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo Ribeirão Preto
 http://a.srvbr.me:8880/138883/138883/5312
-#EXTINF:-1,iptvtools_76
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo Ribeirão Preto HD
 http://a.srvbr.me:8880/138883/138883/5313
-#EXTINF:-1,iptvtools_77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo - TV Bahia
 http://a.srvbr.me:8880/138883/138883/5071
-#EXTINF:-1,iptvtools_78
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo - TV Bahia HD
 http://a.srvbr.me:8880/138883/138883/5309
-#EXTINF:-1,iptvtools_79
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo Minas
 http://a.srvbr.me:8880/138883/138883/830
-#EXTINF:-1,iptvtools_87
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo Minas HD
 http://a.srvbr.me:8880/138883/138883/5093
-#EXTINF:-1,iptvtools_88
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo News
 http://a.srvbr.me:8880/138883/138883/826
-#EXTINF:-1,iptvtools_89
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo News HD
 http://a.srvbr.me:8880/138883/138883/1498
-#EXTINF:-1,iptvtools_90
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo Nordeste
 http://a.srvbr.me:8880/138883/138883/5067
-#EXTINF:-1,iptvtools_91
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO" ,Globo Nordeste HD
 http://a.srvbr.me:8880/138883/138883/5073
-#EXTINF:-1,iptvtools_92
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo - RBS TV
 http://a.srvbr.me:8880/138883/138883/764
-#EXTINF:-1,iptvtools_93
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo - RBS TV HD
 http://a.srvbr.me:8880/138883/138883/5311
-#EXTINF:-1,iptvtools_94
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png"group-title="GLOBO" ,Globo RJ
 http://a.srvbr.me:8880/138883/138883/829
-#EXTINF:-1,iptvtools_95
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo RJ HD
 http://a.srvbr.me:8880/138883/138883/828
-#EXTINF:-1,iptvtools_96
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo NSC TV Florianopolis
 http://a.srvbr.me:8880/138883/138883/5421
-#EXTINF:-1,iptvtools_97
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo NSC TV Florianopolis HD
 http://a.srvbr.me:8880/138883/138883/5420
-#EXTINF:-1,iptvtools_98
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo Curitiba
 http://a.srvbr.me:8880/138883/138883/5128
-#EXTINF:-1,iptvtools_99
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo Curitiba HD
 http://a.srvbr.me:8880/138883/138883/5310
-#EXTINF:-1,iptvtools_100
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo SP
 http://a.srvbr.me:8880/138883/138883/827
-#EXTINF:-1,iptvtools_101
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo SP HD [PLUS]
 http://a.srvbr.me:8880/138883/138883/5528
-#EXTINF:-1,iptvtools_102
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo Anhaguera Goiania
 http://a.srvbr.me:8880/138883/138883/5074
-#EXTINF:-1,iptvtools_103
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo TV Tribuna Santos
 http://a.srvbr.me:8880/138883/138883/5126
-#EXTINF:-1,iptvtools_104
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",TV Vanguarda Sao Jose dos Campos
 http://a.srvbr.me:8880/138883/138883/5125
-#EXTINF:-1,iptvtools_105
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo Para (Belem) - TV Liberal
 http://a.srvbr.me:8880/138883/138883/5069
-#EXTINF:-1,iptvtools_106
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo TV TEM S.J. Rio Preto
 http://a.srvbr.me:8880/138883/138883/5307
-#EXTINF:-1,iptvtools_107
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo TV TEM S.J. Rio Preto HD
 http://a.srvbr.me:8880/138883/138883/5308
-#EXTINF:-1,iptvtools_108
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo - TV TEM Bauru
 http://a.srvbr.me:8880/138883/138883/714
-#EXTINF:-1,iptvtools_109
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo - TV TEM Sorocaba
 http://a.srvbr.me:8880/138883/138883/713
-#EXTINF:-1,iptvtools_110
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",Globo - TV Verdes Mares
 http://a.srvbr.me:8880/138883/138883/5068
-#EXTINF:-1,iptvtools_273
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO EPTV CAMPINAS [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7873
-#EXTINF:-1,iptvtools_274
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO NACIONAL [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7880
-#EXTINF:-1,iptvtools_275
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO NEWS [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7827
-#EXTINF:-1,iptvtools_276
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO RBS TV POA [H265]
 http://cdn.poptv.vip:80/daniel/daniel/8373
-#EXTINF:-1,iptvtools_277
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO RPC CURITIBA [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7869
-#EXTINF:-1,iptvtools_278
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO RPC PARANAENSE [H265]
 http://cdn.poptv.vip:80/daniel/daniel/8370
-#EXTINF:-1,iptvtools_279
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO TV ANHANGUERA [H265]
 http://cdn.poptv.vip:80/daniel/daniel/8372
-#EXTINF:-1,iptvtools_280
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO TV BAHIA [H265]
 http://cdn.poptv.vip:80/daniel/daniel/8857
-#EXTINF:-1,iptvtools_281
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO TV CENTRO AMÉRICA [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7878
-#EXTINF:-1,iptvtools_282
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO TV LIBERAL BELÉM [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7870
-#EXTINF:-1,iptvtools_283
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO TV MINAS [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7877
-#EXTINF:-1,iptvtools_284
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO TV MIRANTE [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7871
-#EXTINF:-1,iptvtools_285
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO TV MORENA [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7874
-#EXTINF:-1,iptvtools_286
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO TV NORDESTE [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7875
-#EXTINF:-1,iptvtools_287
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO TV NSC FLORIANÓPOLIS [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7872
-#EXTINF:-1,iptvtools_288
+#EXTINF:-1  tvg-logo="https://i.ibb.co/frYrFNM/globo.png" group-title="GLOBO",GLOBO TV VERDES MARES [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7876
-#EXTINF:-1,iptvtools_293
+
+------------------------------------------------------------------HBO----------------------------------------------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="HBO",HBO + [HD]
 http://cdn.poptv.vip:80/daniel/daniel/7507
-#EXTINF:-1,iptvtools_294
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="HBO",HBO 2 [HD]
 http://cdn.poptv.vip:80/daniel/daniel/7505
-#EXTINF:-1,iptvtools_295
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="HBO",HBO FAMILY [HD]
 http://cdn.poptv.vip:80/daniel/daniel/7500
-#EXTINF:-1,iptvtools_296
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="HBO",HBO MUNDI [HD]
 http://cdn.poptv.vip:80/daniel/daniel/7512
-#EXTINF:-1,iptvtools_297
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="HBO",HBO POP [HD]
 http://cdn.poptv.vip:80/daniel/daniel/7546
-#EXTINF:-1,iptvtools_298
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="HBO",HBO SIGNATURE [HD]
 http://cdn.poptv.vip:80/daniel/daniel/7511
-#EXTINF:-1,iptvtools_299
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="HBO",HBO XTREME [HD]
 http://cdn.poptv.vip:80/daniel/daniel/7551
-#EXTINF:-1,iptvtools_300
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="HBO",HBO [HD]
 http://cdn.poptv.vip:80/daniel/daniel/7501
-#EXTINF:-1,iptvtools_386
+
+-------------------------------------------------------------record-----------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",RECORD TV RJ [HD]
 http://cdn.poptv.vip:80/daniel/daniel/7359
-#EXTINF:-1,iptvtools_387
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",RECORD TV SP [HD]
 http://cdn.poptv.vip:80/daniel/daniel/7596
-#EXTINF:-1,iptvtools_388
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",RECORD TV [HD]
 http://cdn.poptv.vip:80/daniel/daniel/9217
-#EXTINF:-1,iptvtools_395
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",RECORD TV SP [H265]
 http://cdn.poptv.vip:80/daniel/daniel/7881
-#EXTINF:-1,iptvtools_411
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record HD [PLUS]
 http://a.srvbr.me:8880/138883/138883/1857
-#EXTINF:-1,iptvtools_412
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record BA
 http://a.srvbr.me:8880/138883/138883/11072
-#EXTINF:-1,iptvtools_413
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record BA HD
 http://a.srvbr.me:8880/138883/138883/11071
-#EXTINF:-1,iptvtools_414
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record DF
 http://a.srvbr.me:8880/138883/138883/11069
-#EXTINF:-1,iptvtools_415
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record DF HD
 http://a.srvbr.me:8880/138883/138883/11068
-#EXTINF:-1,iptvtools_416
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record MG
 http://a.srvbr.me:8880/138883/138883/7565
-#EXTINF:-1,iptvtools_417
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record MG HD
 http://a.srvbr.me:8880/138883/138883/7566
-#EXTINF:-1,iptvtools_418
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record RJ
 http://a.srvbr.me:8880/138883/138883/7567
-#EXTINF:-1,iptvtools_419
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record RJ HD
 http://a.srvbr.me:8880/138883/138883/7568
-#EXTINF:-1,iptvtools_420
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record RS
 http://a.srvbr.me:8880/138883/138883/11066
-#EXTINF:-1,iptvtools_421
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record RS HD
 http://a.srvbr.me:8880/138883/138883/11065
-#EXTINF:-1,iptvtools_422
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/record_m.jpg" group-title="RECORD",Record Internacional
 http://a.srvbr.me:8880/138883/138883/899
-#EXTINF:-1,iptvtools_427
+
+------------------------------------------------------------------sbt------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="SBT", SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_428
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="SBT", SBT Interior SP
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 #EXTINF:-1,iptvtools_429
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
