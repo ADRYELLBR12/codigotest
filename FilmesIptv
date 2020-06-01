@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/d/f/4df0f8ea6dae8fbf96e4ca470109002a_icon.png?w=256" group-title="Filmes",Lego Batman
 https://akr91.azureedge.net/movies/legobatman-dub-720p.mp4
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/d/f/4df0f8ea6dae8fbf96e4ca470109002a_icon.png?w=256" group-title="Sport",SportTV
-https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_b721f42aedd0b43b527b2a1a0f20c0e4c382dd2d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/d/f/4df0f8ea6dae8fbf96e4ca470109002a_icon.png?w=256" group-title="Sport",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
