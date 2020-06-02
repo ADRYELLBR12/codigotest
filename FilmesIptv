@@ -19,5 +19,17 @@ https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/premiere5_0486ffb0_ba9574b
 https://edge-aws.aovivo.club/hls/s:88.198.239.170/premiere6_8a279e5c_0a3bce23c15662dcac48f740beca95b31b67b5dc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-ppv.png" group-title="Sport",Premiere 7
 https://edge-aws.aovivo.club/hls/s:78.46.240.155/premiere7_0b6a6376_e06a5f7d6039d2913fff3f05c735325ebdeb6eec/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-ppv.png" group-title="Sport",Premiere 7
-https://edge-aws.aovivo.club/hls/s:78.46.240.155/premiere7_0b6a6376_e06a5f7d6039d2913fff3f05c735325ebdeb6eec/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-sportv.png" group-title="Sport",SporTV
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_df938279b33c237307180c4780ef5788fc6459d6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOxdO0DgKE9qdi5pxeRsYDb1vwGqUstEwXdWPH3bPvUPdqD1M6&usqp=CAU" group-title="Canais de Filmes e Series",Telecine Action
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecineactionhd_be2793cd_ddeef03a88790c9af48dac767fa170b80b4370a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="Canais de Filmes e Series",Telecine Cult
+https://edge-aws.aovivo.club/hls/s:88.198.163.51/telecinecult_8d255e1e_f0c145df34ab76e55bfb1bdc0cd92a023c65dbc2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png" group-title="Canais de Filmes e Series",Telecine Fun
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinefun_ae1e7198_2eb5d35cdb2b62313063f2b1a800efddd451c359/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca_m.png" group-title="Canais de Filmes e Series",Telecine Pipoca
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_df938279b33c237307180c4780ef5788fc6459d6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="Canais de Filmes e Series",Telecine Premium
+https://edge-aws.aovivo.club/hls/s:88.198.163.51/telecinepremiumhd_a8a2b30f_af51cfad14e1fd74cdae428dc36c9b63b9bee242/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="Canais de Filmes e Series",Telecine Touch
+https://edge-aws.aovivo.club/hls/s:88.198.239.170/telecinetouch_74cbd2c2_96ab109cf1c1e8849a132a14cfe859ab7d996787/playlist.m3u8
