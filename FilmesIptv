@@ -1,5 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/d/f/4df0f8ea6dae8fbf96e4ca470109002a_icon.png?w=256" group-title="Filmes",Lego Batman
 https://akr91.azureedge.net/movies/legobatman-dub-720p.mp4
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/d/f/4df0f8ea6dae8fbf96e4ca470109002a_icon.png?w=256" group-title="Sport",ESPN Brasil
+#EXTINF:-1 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/espn-brasil.jpg" group-title="Sport",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/espn-brasil.jpg" group-title="Sport",ESPN Brasil Full HD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-ppv.png" group-title="Sport",Premiere
+https://edge-aws.aovivo.club/hls/s:78.47.27.206/premiereclubes_3f1522d0_1ad4937a880517a8f8065ebfa0168763f576648b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-ppv.png" group-title="Sport",Premiere 2
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere2_f5b68d74_72a5a4a3cf34ddb0aa1651f42df7a73180046b87/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-ppv.png" group-title="Sport",Premiere 3
+https://edge-aws.aovivo.club/hls/s:88.198.239.170/premiere3_b903ea63_d11c7398e9524323af1f92d4f13cd9beffeebdff/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-ppv.png" group-title="Sport",Premiere 4
+https://edge-aws.aovivo.club/hls/s:78.47.27.206/premiere4_142e9ae3_99977c87b61e54fad391d6256ded7df9bee149c8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-ppv.png" group-title="Sport",Premiere 5
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/premiere5_0486ffb0_ba9574b9aa58dae57ca496082f3f6e6bfff7ca61/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-ppv.png" group-title="Sport",Premiere 6
+https://edge-aws.aovivo.club/hls/s:88.198.239.170/premiere6_8a279e5c_0a3bce23c15662dcac48f740beca95b31b67b5dc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-ppv.png" group-title="Sport",Premiere 7
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/premiere7_0b6a6376_e06a5f7d6039d2913fff3f05c735325ebdeb6eec/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-ppv.png" group-title="Sport",Premiere 7
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/premiere7_0b6a6376_e06a5f7d6039d2913fff3f05c735325ebdeb6eec/playlist.m3u8
