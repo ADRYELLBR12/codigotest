@@ -1,6 +1,13 @@
 #EXTM3U
+------------------------------------------------------Filmes------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/d/f/4df0f8ea6dae8fbf96e4ca470109002a_icon.png?w=256" group-title="Filmes",Lego Batman
 https://akr91.azureedge.net/movies/legobatman-dub-720p.mp4
+
+------------------------------------------------------Desenhos------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/Ben_10_Omniverse.png" group-title="Desenhos",Ben 10 Ominverse 59 Arma XI, Parte 1
+https://proxy-041.ix7.dailymotion.com/sec(4D9qlkTX-vRCFXZHYHjCmvz9Lwbcs6m5SHg3Y5R1m6nNuOhidcqHiVjN0x5A6gHDLc9HpzNljzkWof-6An0QBBKSRmEir44jHmU5woM8b-Y)/video/061/222/340222160_mp4_h264_aac_hd.m3u8#cell=core&qos_ugc=1
+
+------------------------------------------------------Sports---------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/espn-brasil.jpg" group-title="Sport",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/espn-brasil.jpg" group-title="Sport",ESPN Brasil Full HD
@@ -21,6 +28,8 @@ https://edge-aws.aovivo.club/hls/s:88.198.239.170/premiere6_8a279e5c_0a3bce23c15
 https://edge-aws.aovivo.club/hls/s:78.46.240.155/premiere7_0b6a6376_e06a5f7d6039d2913fff3f05c735325ebdeb6eec/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-sportv.png" group-title="Sport",SporTV
 https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_df938279b33c237307180c4780ef5788fc6459d6/playlist.m3u8
+
+-------------------------------------------------------filmes
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOxdO0DgKE9qdi5pxeRsYDb1vwGqUstEwXdWPH3bPvUPdqD1M6&usqp=CAU" group-title="Canais de Filmes e Series",Telecine Action
 https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecineactionhd_be2793cd_ddeef03a88790c9af48dac767fa170b80b4370a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="Canais de Filmes e Series",Telecine Cult
