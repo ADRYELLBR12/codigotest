@@ -12,7 +12,7 @@ https://proxy-041.ix7.dailymotion.com/sec(4D9qlkTX-vRCFXZHYHjCmvz9Lwbcs6m5SHg3Y5
 ------------------------------------------------------Sports---------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/espn-brasil.jpg" group-title="Sport",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/espn-brasil.jpg" group-title="Sport",ESPN Brasil Full HD
+#EXTINF:-1 tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/espn-brasil.jpg" group-title="Sport",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-ppv.png" group-title="Sport",Premiere
 https://edge-aws.aovivo.club/hls/s:78.47.27.206/premiereclubes_3f1522d0_1ad4937a880517a8f8065ebfa0168763f576648b/playlist.m3u8
